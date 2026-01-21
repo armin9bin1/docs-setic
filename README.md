@@ -3,4 +3,4 @@
 Repositório centralizado para documentação técnica.
 
 **Autor**: Armindo Binje  
-**Data**: 20-01-2026  
+**Data Criação**: 21-01-2026  
