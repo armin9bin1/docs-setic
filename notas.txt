@@ -1,0 +1,10 @@
+Um framework é uma estrutura reutilizável de código, ferramentas e padrões que fornece uma base para desenvolver software, websites ou aplicações de forma mais rápida e organizada, sem precisar começar do zero,
+ditando um fluxo de controle para a aplicação (Inversão de Controle) e incluindo funcionalidades comuns como acesso a bancos de dados e renderização de páginas. Ele oferece uma "moldura" ou "esqueleto" com bibliotecas prontas para problemas comuns, 
+garantindo padronização e eficiência, ao contrário de bibliotecas que são apenas coleções de funções que você chama quando precisa. 
+
+Características principais
+
+Estrutura: Define a arquitetura básica e as diretrizes do projeto.
+Reutilização: Contém código pré-escrito para tarefas comuns (APIs, bibliotecas).
+Inversão de Controle (IoC): O framework chama seu código, não o contrário, controlando o fluxo da aplicação.
+Padronização: Ajuda a manter a consistência e qualidade no desenvolvimento. 
